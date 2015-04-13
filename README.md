@@ -6,7 +6,7 @@
   * find similar color
 
   In CLUT generator, We unique all pixel from input img and calculate each of unique pixel's count. After these step,
-  sort the list and extrac top 256 pixel.
+  sort the list and extrac top 256 colours.
   
   
   How we find similar color, we use a low-cost approximation method,
